@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="QA Engineer Automation Task" parallel="false" thread-count="2">
+    <test name="Apply for job">
+        <classes>
+            <class name="test.staffbase.ApplyJobTest"/>
+        </classes>
+    </test>
+</suite>
