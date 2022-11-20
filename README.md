@@ -2,9 +2,8 @@
 
 1. Automated test cases available under src/test/java/test/staffbase/TestCase
 2. Test cases can be executed through TestNG xml file - TestNG.xml file
-3. Interested to discuss more during our next call
-4. Report is available allure-results folder
-5. Looking forward to discuss during our next meeting
+3. Report is available allure-results folder
+4. Looking forward to discuss during our next meeting
 
 # Defects
 
